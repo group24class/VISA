@@ -1,0 +1,7 @@
+#technologies
+echo "Welcome to Visa, Your best payment gateway"
+echo "With Visa Payment made easy"
+echo " Please enter your name"
+read
+echo "Welcome $name
+date
